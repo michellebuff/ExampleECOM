@@ -1,0 +1,1 @@
+Store analysis figures and generated visual outputs in this directory.

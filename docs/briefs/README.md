@@ -1,0 +1,1 @@
+Store documents written before work begins in this directory.
